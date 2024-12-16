@@ -37,7 +37,7 @@
     "react-intl": "^7.0.4",
     "react-redux": "^9.2.0",
     "react-router-dom": "^7.0.2",
-    "renovate": "^39.59.0",
+    "renovate": "^39.70.0",
     "sql-lint": "1.0.0",
     "standard": "^17.1.2",
     "stylelint": "^16.12.0",
