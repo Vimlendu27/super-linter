@@ -24,7 +24,7 @@ FROM mstruebing/editorconfig-checker:v3.2.0 AS editorconfig-checker
 FROM mvdan/shfmt:v3.10.0 AS shfmt
 FROM rhysd/actionlint:1.7.7 AS actionlint
 FROM scalameta/scalafmt:v3.8.3 AS scalafmt
-FROM zricethezav/gitleaks:v8.23.3 AS gitleaks
+FROM zricethezav/gitleaks:v8.24.0 AS gitleaks
 FROM yoheimuta/protolint:0.53.0 AS protolint
 FROM ghcr.io/clj-kondo/clj-kondo:2025.01.16-alpine AS clj-kondo
 FROM dart:3.7.0-sdk AS dart
