@@ -40,7 +40,7 @@
     "renovate": "^39.213.3",
     "sql-lint": "1.0.0",
     "standard": "^17.1.2",
-    "stylelint": "^16.16.0",
+    "stylelint": "^16.17.0",
     "stylelint-config-recommended-scss": "^14.1.0",
     "stylelint-config-sass-guidelines": "^12.1.0",
     "stylelint-config-standard": "^37.0.0",
