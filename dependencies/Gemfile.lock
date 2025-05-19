@@ -23,8 +23,8 @@ GEM
     drb (2.2.1)
     i18n (1.14.7)
       concurrent-ruby (~> 1.0)
-    json (2.11.3)
-    language_server-protocol (3.17.0.4)
+    json (2.12.0)
+    language_server-protocol (3.17.0.5)
     lint_roller (1.1.0)
     logger (1.7.0)
     minitest (5.25.5)
@@ -37,7 +37,7 @@ GEM
     rack (3.1.13)
     rainbow (3.1.1)
     regexp_parser (2.10.0)
-    rubocop (1.75.5)
+    rubocop (1.75.6)
       json (~> 2.3)
       language_server-protocol (~> 3.17.0.2)
       lint_roller (~> 1.1.0)
@@ -99,7 +99,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  rubocop (~> 1.75.5)
+  rubocop (~> 1.75.6)
   rubocop-github (~> 0.23.0)
   rubocop-minitest (~> 0.38.0)
   rubocop-performance (~> 1.25.0)
