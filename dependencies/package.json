@@ -20,7 +20,7 @@
     "eslint-plugin-prettier": "^5.5.3",
     "eslint-plugin-react": "^7.37.5",
     "eslint-plugin-react-hooks": "^5.2.0",
-    "eslint-plugin-vue": "^10.3.0",
+    "eslint-plugin-vue": "^10.4.0",
     "gherkin-lint": "^4.2.4",
     "htmlhint": "^1.6.3",
     "jscpd": "^4.0.5",
