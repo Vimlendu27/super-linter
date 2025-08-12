@@ -19,7 +19,7 @@ FROM goreleaser/goreleaser:v2.11.0 AS goreleaser
 FROM hadolint/hadolint:v2.12.0-alpine AS dockerfile-lint
 FROM registry.k8s.io/kustomize/kustomize:v5.7.0 AS kustomize
 FROM hashicorp/terraform:1.11.4 AS terraform
-FROM koalaman/shellcheck:v0.10.0 AS shellcheck
+FROM koalaman/shellcheck:v0.11.0 AS shellcheck
 FROM mstruebing/editorconfig-checker:v3.4.0 AS editorconfig-checker
 FROM mvdan/shfmt:v3.12.0 AS shfmt
 FROM rhysd/actionlint:1.7.7 AS actionlint
