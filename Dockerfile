@@ -16,7 +16,7 @@ FROM alpine/helm:3.18.4 AS helm
 FROM golang:1.24.6-alpine AS golang
 FROM golangci/golangci-lint:v2.4.0 AS golangci-lint
 FROM goreleaser/goreleaser:v2.11.2 AS goreleaser
-FROM hadolint/hadolint:v2.12.0-alpine AS dockerfile-lint
+FROM hadolint/hadolint:v2.13.1-alpine AS dockerfile-lint
 FROM registry.k8s.io/kustomize/kustomize:v5.7.1 AS kustomize
 FROM hashicorp/terraform:1.12.2 AS terraform
 FROM koalaman/shellcheck:v0.11.0 AS shellcheck
