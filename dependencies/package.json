@@ -32,7 +32,7 @@
     "prettier": "^3.7.4",
     "prettyjson": "^1.2.5",
     "pug": "^3.0.3",
-    "react": "^19.2.0",
+    "react": "^19.2.1",
     "react-dom": "^19.2.0",
     "react-intl": "^7.1.14",
     "react-redux": "^9.2.0",
