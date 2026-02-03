@@ -23,7 +23,7 @@
     "eslint-plugin-vue": "^10.7.0",
     "gherkin-lint": "^4.2.4",
     "htmlhint": "^1.8.0",
-    "jscpd": "^4.0.7",
+    "jscpd": "^4.0.8",
     "markdownlint-cli": "^0.47.0",
     "next": "^16.1.5",
     "next-pwa": "^5.6.0",
