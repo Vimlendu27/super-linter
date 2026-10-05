@@ -7,7 +7,7 @@
     "@coffeelint/cli": "^5.2.11",
     "@ibm/tekton-lint": "^1.2.4",
     "@react-native/eslint-config": "^0.87.1",
-    "@stoplight/spectral-cli": "^6.16.3",
+    "@stoplight/spectral-cli": "^6.17.0",
     "@typescript-eslint/eslint-plugin": "^8.70.1",
     "asl-validator": "^4.0.0",
     "eslint": "^10.12.0",
