@@ -1,7 +1,7 @@
 {
   "name": "super-linter",
   "dependencies": {
-    "@babel/eslint-parser": "^8.0.7",
+    "@babel/eslint-parser": "^8.1.2",
     "@babel/preset-react": "^8.0.1",
     "@babel/preset-typescript": "^8.0.7",
     "@coffeelint/cli": "^5.2.15",
